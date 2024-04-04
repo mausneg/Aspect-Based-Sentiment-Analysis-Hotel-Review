@@ -1,3 +1,5 @@
 .venv/
 coba/
-Data/
+Data/data_2/review.txt
+Data/data_2/review.csv
+Data/data_2/clean_review_160k.csv
